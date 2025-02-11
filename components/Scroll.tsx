@@ -31,7 +31,7 @@ function Scroll() {
         y,
         scale
        }}
-       className='bg-white border border-neutral-100 w-[800px] h-[600px] -mt-8 p-2 rounded-3xl '>
+       className='bg-white border border-neutral-100 w-[600px] h-[500px] -mt-8 p-2 rounded-3xl '>
         <div className='bg-black w-full h-full rounded-[16px] p-2'>
             <div className='bg-neutral-100 h-full w-full rounded-[8px] '>
                 <Image src={"https://www.wallstreetzen.com/blog/wp-content/uploads/2022/11/thinkorswim-papermoney.png"} alt='image' className='w-full h-full'
